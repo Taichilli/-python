@@ -1,0 +1,11 @@
+2024-06-06 21:08:40,664 - ERROR - Ошибка доступа к /путь/к/директории: [WinError 3] Системе не удается найти указанный путь: '/путь/к/директории'
+2024-06-06 21:08:40,664 - INFO - Данные успешно сохранены в directory_info.json
+2024-06-06 21:08:40,665 - ERROR - Ошибка при сохранении в directory_info.csv: dict contains fields not in fieldnames: 'error'
+2024-06-06 21:08:40,665 - INFO - Данные успешно сохранены в directory_info.pkl
+2024-06-06 21:12:36,948 - INFO - Данные успешно сохранены в directory_info.json
+2024-06-06 21:12:36,983 - INFO - Данные успешно сохранены в directory_info.csv
+2024-06-06 21:12:36,989 - INFO - Данные успешно сохранены в directory_info.pkl
+2024-06-06 21:20:08,512 - ERROR - Ошибка доступа к S:\Education-: [WinError 3] Системе не удается найти указанный путь: 'S:\\Education-'
+2024-06-06 21:20:08,514 - INFO - Данные успешно сохранены в directory_info.json
+2024-06-06 21:20:08,514 - ERROR - Ошибка при сохранении в directory_info.csv: dict contains fields not in fieldnames: 'error'
+2024-06-06 21:20:08,515 - INFO - Данные успешно сохранены в directory_info.pkl

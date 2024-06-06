@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Education-",
+        "path": "S:\\Education-",
+        "type": "directory",
+        "parent": null,
+        "size": 0,
+        "error": "[WinError 3] Системе не удается найти указанный путь: 'S:\\\\Education-'"
+    }
+]
